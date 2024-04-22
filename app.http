@@ -1,0 +1,12 @@
+###
+api1
+send request 
+
+
+
+
+get http://localhost:3000/movies
+
+
+send request
+get http://localhost:3000/movies/2
